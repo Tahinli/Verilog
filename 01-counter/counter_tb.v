@@ -5,7 +5,7 @@ module counter_test;
         #11 reset = 0;
         #17 reset = 1;
         #11 reset = 0;
-        #17 $stop;
+        #17 $finish;
     end
 
     reg clk = 0;
